@@ -10,6 +10,11 @@
 ## Generating CLI Prompts
 
 ## PHP Versions
+|    Version    |      PHP      |        Release      | Bug Fixes Until |   Security Fixes   |
+| ------------- | ------------- | ------------------- | --------------- | ------------------ |
+|       8       |    7.3 - 8.1  | September, 8th 2020 | July, 28th 2022 | January, 24th 2023 |
+
+
 
 ## Profile Helpers
 
